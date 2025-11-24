@@ -1,0 +1,9 @@
+{
+	"name": "DataEngineeringProject-01",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d797e87-c36c-4e08-a75f-5644d35746dc",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
